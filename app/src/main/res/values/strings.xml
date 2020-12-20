@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">wielomiany</string>
+    <string name="heading">Wprowadź wielomian i wybierz działanie:</string>
+    <string name="heading2">Wprowadź wartość x:</string>
+    <string name="requestLabel">oblicz dla x</string>
+    <string name="jsonLabel">oblicz pochodną</string>
+    <string name="hint_request">Wprowadź X</string>
+    <string name="txt_request">Oblicz</string>
+
+    <string name="title_activity_json">JsonActivity</string>
+
+</resources>
